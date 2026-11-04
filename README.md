@@ -139,7 +139,7 @@ Settings and print history live in `%AppData%\Labels`.
 
 ## Privacy
 
-Everything happens on your PC. Labels has no account, no telemetry and no network access of its own — text recognition is Windows' on-device engine, and the only time a web page opens is when you press **Track**.
+Everything happens on your PC. Labels has no account, no telemetry and no network access of its own — text recognition is Windows' on-device engine, and the only time a web page opens is when you press **Track Package**.
 
 ## License
 
