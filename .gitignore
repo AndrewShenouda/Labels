@@ -1,0 +1,15 @@
+## Build output
+bin/
+obj/
+publish/
+artifacts/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+
+## Local scratch
+*.log
+render/
+shots/
