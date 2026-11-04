@@ -88,8 +88,6 @@ Cheap 4×6 thermal printers (Helett, iDPRT, Beeprt and friends) are great hardwa
 
 Labels speaks **TSPL**, the command language used by most budget thermal label printers. It's been tested on the **Helett AE240BT**. Printers that share its driver family should work too — for example Helett AD240-BT and A40, Nelko PL70e-BT, Polono PL420, and many iDPRT, Beeprt and Xprinter models.
 
-Not supported yet: printers that only speak ZPL (most Zebra printers), ESC/POS receipt printers, and Bluetooth-LE-only printers that only work with a phone app.
-
 ## Keyboard shortcuts
 
 | Keys | Action |
